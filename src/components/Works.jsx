@@ -124,7 +124,7 @@ const Works = () => {
           ) : work === "Social Media" ? (
             <SocialMedia />
           ) : (
-            <ProductDesign />
+            <AI />
           )}
         </Right>
       </Container>
