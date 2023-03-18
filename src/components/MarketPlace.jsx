@@ -34,9 +34,9 @@ const MarketPlace = () => {
           <OrbitControls enableZoom={false} autoRotate />
         </Suspense>
       </Canvas>
-      <Desc>
+      {/* <Desc>
       Insight Army is a platform for individuals and businesses to showcase their projects and ideas.
-      </Desc>
+      </Desc> */}
     </>
   );
 };
