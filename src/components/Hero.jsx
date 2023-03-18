@@ -134,7 +134,7 @@ const Hero = () => {
           <Desc>
             Showcase creativity ,  Unleash Projects !.
           </Desc>
-          <a href="https://insightarmy.netlify.app/" target={"_blank"} rel="noopener noreferrer"><Button>Beta Version</Button></a>
+          <a href="https://insightarmyindia.netlify.app/" target={"_blank"} rel="noopener noreferrer"><Button>Beta Version</Button></a>
         </Left>
         <Right>
           <Canvas>
