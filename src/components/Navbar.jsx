@@ -84,7 +84,7 @@ const Navbar = () => {
         <Icons>
           {/* Changed the image due to copyright problems */}
           <Icon src="./img/search.png" />
-          <a href="https://insightarmyindia.netlify.app/" target={"_blank"} rel="noopener noreferrer"><Button>Beta Version</Button></a>
+          <a href="https://insightarmy.netlify.app/" target={"_blank"} rel="noopener noreferrer"><Button>Beta Version</Button></a>
           
         </Icons>
       </Container>
